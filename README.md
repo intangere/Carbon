@@ -3,9 +3,9 @@ Python-based online BS Card Game back end for the GUI written in App Inventor us
 Final Game Design Project
 Features
 <hr>
--Four player minimum requirement per game
--Duplicate usernames are not allowed
--Duplicate game ID's are not allowed
+-Four player minimum requirement per game<br>
+-Duplicate usernames are not allowed<br>
+-Duplicate game ID's are not allowed<br>
 -Supports hands up to 25 card hands, Upon having 25 cards a message pops up recommending you uninstall this as you are terrible at it
 -Blocks hackers for the most part
 -BS button is functional
