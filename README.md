@@ -1,6 +1,17 @@
 # Carbon
 Python-based online BS Card Game back end for the GUI written in App Inventor using Twisted, Flask, and Orbit for exchanging data
-Final Game Design Project
+Final Game Design Project<br>
+Design:<br>
+(Original)
+-Create sessions with random IDS and store them on the device<br>
+-Join sessions by sending friends random ID from device<br>
+-Auto align cards<br>
+-Move cards and build pile in the center<br>
+-5 second interval refresh rate<br>
+-8bit style cards<br>
+Final version:<br>
+-No card pile in the center due to tiem constraints<br>
+-Users must pick IDS instead of them randomly generating<br><br>
 Features
 <hr>
 -Four player minimum requirement per game<br>
