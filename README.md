@@ -14,6 +14,6 @@ Features
 -Game over may work, unconfirmed (Didn't have time to simulate an entire game)<br>
 -Offline sessions, you can join a game any time and continue it<br><br>
 
-Todo
+Todo<br>
 -Implement ai based games prefixed with ai_gameID<br>
 -Implement card animation so players see the pile in the middle of the game<br>
